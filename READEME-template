@@ -1,0 +1,115 @@
+markdown
+# Product Preview Card
+
+This project is a responsive product preview card component created with HTML and CSS. The card displays product details, including an image, name, description, pricing, and a call-to-action button.
+
+## Live Demo
+[Visit Live Demo](https://Nichodemusdev.github.io/product-preview-card/)
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+This product preview card is a challenge from [Frontend Mentor](https://www.frontendmentor.io). The goal is to build a responsive card component that adapts to different screen sizes.
+
+## Features
+- Responsive design
+- Product image
+- Product name and description
+- New and old pricing
+- Add to cart button
+
+## Getting Started
+To get a local copy of this project, follow these steps:
+
+### Prerequisites
+- A web browser (Google Chrome, Mozilla Firefox, etc.)
+
+### Installation
+1. Clone the repository:
+   bash
+   git clone https://github.com/Nichodemus.dev/product-preview-card.git
+   
+2. Navigate to the project directory:
+   bash
+   cd product-preview-card
+   
+3. Open the `index.html` file in your web browser to view the project.
+
+## Technologies Used
+- HTML
+- CSS
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the [Nichodemusdev](LICENSE) file for details.
+
+## Author
+Challenge by [Frontend Mentor](https://www.frontendmentor.io). Coded by [Nichodemusdev](https://github.com/Nichodemusdev/).
+
+
+### .gitignore
+plaintext
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+*.env
+
+# Ignore build artifacts
+/dist
+/build
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore coverage directory
+coverage/
+
+# Ignore temporary files
+tmp/
+temp/
+
+
+### LICENSE (MIT License)
+plaintext
+MIT License
+
+Copyright (c) 2024 Nichodemusdev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
